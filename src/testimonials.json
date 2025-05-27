@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Winnie Collier",
+    "role": "Pelanggan",
+    "text": "Saya sangat terkesan dengan variasi makanan khas Indonesia di sini. Rasanya autentik dan pengantarannya cepat.",
+    "image": "./img/testi1.png"
+  },
+  {
+    "name": "Helen Woods",
+    "role": "Pelanggan",
+    "text": "Pelayanan sangat ramah dan makanan tiba dalam keadaan hangat. Suka banget sama rendangnya!",
+    "image": "./img/testi2.png"
+  },
+  {
+    "name": "Ethan Thomas",
+    "role": "Pelanggan",
+    "text": "Mudah sekali memesan makanan di website ini. Rasa sotonya benar-benar seperti buatan ibu di rumah.",
+    "image": "./img/testi3.png"
+  },
+  {
+    "name": "Lara Johnson",
+    "role": "Pelanggan",
+    "text": "Pengalaman yang luar biasa! Setiap hidangan disajikan dengan sangat baik dan rasanya luar biasa.",
+    "image": "./img/testi4.jpg"
+  },
+  {
+    "name": "David Green",
+    "role": "Pelanggan",
+    "text": "Sangat puas dengan kualitas makanan dan layanan. Pasti akan kembali lagi untuk mencoba menu lainnya.",
+    "image": "./img/testi5.jpg"
+  }
+]

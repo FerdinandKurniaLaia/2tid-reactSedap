@@ -1,0 +1,182 @@
+[
+    {
+        "member_id": 1,
+        "nama": "John Doe",
+        "email": "john.doe@example.com",
+        "tipe_member": "silver"
+    },
+    {
+        "member_id": 2,
+        "nama": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "tipe_member": "gold"
+    },
+    {
+        "member_id": 3,
+        "nama": "Sam Wilson",
+        "email": "sam.wilson@example.com",
+        "tipe_member": "platinum"
+    },
+    {
+        "member_id": 4,
+        "nama": "Emily Davis",
+        "email": "emily.davis@example.com",
+        "tipe_member": "silver"
+    },
+    {
+        "member_id": 5,
+        "nama": "Michael Johnson",
+        "email": "michael.johnson@example.com",
+        "tipe_member": "gold"
+    },
+    {
+        "member_id": 6,
+        "nama": "Sarah Brown",
+        "email": "sarah.brown@example.com",
+        "tipe_member": "platinum"
+    },
+    {
+        "member_id": 7,
+        "nama": "David Lee",
+        "email": "david.lee@example.com",
+        "tipe_member": "silver"
+    },
+    {
+        "member_id": 8,
+        "nama": "Olivia Martinez",
+        "email": "olivia.martinez@example.com",
+        "tipe_member": "gold"
+    },
+    {
+        "member_id": 9,
+        "nama": "James White",
+        "email": "james.white@example.com",
+        "tipe_member": "platinum"
+    },
+    {
+        "member_id": 10,
+        "nama": "Sophia Miller",
+        "email": "sophia.miller@example.com",
+        "tipe_member": "silver"
+    },
+    {
+        "member_id": 11,
+        "nama": "Jackson Garcia",
+        "email": "jackson.garcia@example.com",
+        "tipe_member": "gold"
+    },
+    {
+        "member_id": 12,
+        "nama": "Isabella Martinez",
+        "email": "isabella.martinez@example.com",
+        "tipe_member": "platinum"
+    },
+    {
+        "member_id": 13,
+        "nama": "Ethan Robinson",
+        "email": "ethan.robinson@example.com",
+        "tipe_member": "silver"
+    },
+    {
+        "member_id": 14,
+        "nama": "Ava Rodriguez",
+        "email": "ava.rodriguez@example.com",
+        "tipe_member": "gold"
+    },
+    {
+        "member_id": 15,
+        "nama": "Lucas Lewis",
+        "email": "lucas.lewis@example.com",
+        "tipe_member": "platinum"
+    },
+    {
+        "member_id": 16,
+        "nama": "Mia Walker",
+        "email": "mia.walker@example.com",
+        "tipe_member": "silver"
+    },
+    {
+        "member_id": 17,
+        "nama": "William Hall",
+        "email": "william.hall@example.com",
+        "tipe_member": "gold"
+    },
+    {
+        "member_id": 18,
+        "nama": "Charlotte Young",
+        "email": "charlotte.young@example.com",
+        "tipe_member": "platinum"
+    },
+    {
+        "member_id": 19,
+        "nama": "Benjamin King",
+        "email": "benjamin.king@example.com",
+        "tipe_member": "silver"
+    },
+    {
+        "member_id": 20,
+        "nama": "Amelia Scott",
+        "email": "amelia.scott@example.com",
+        "tipe_member": "gold"
+    },
+    {
+        "member_id": 21,
+        "nama": "Henry Green",
+        "email": "henry.green@example.com",
+        "tipe_member": "platinum"
+    },
+    {
+        "member_id": 22,
+        "nama": "Lily Adams",
+        "email": "lily.adams@example.com",
+        "tipe_member": "silver"
+    },
+    {
+        "member_id": 23,
+        "nama": "Jack Nelson",
+        "email": "jack.nelson@example.com",
+        "tipe_member": "gold"
+    },
+    {
+        "member_id": 24,
+        "nama": "Harper Carter",
+        "email": "harper.carter@example.com",
+        "tipe_member": "platinum"
+    },
+    {
+        "member_id": 25,
+        "nama": "Daniel Perez",
+        "email": "daniel.perez@example.com",
+        "tipe_member": "silver"
+    },
+    {
+        "member_id": 26,
+        "nama": "Ella Mitchell",
+        "email": "ella.mitchell@example.com",
+        "tipe_member": "gold"
+    },
+    {
+        "member_id": 27,
+        "nama": "James Anderson",
+        "email": "james.anderson@example.com",
+        "tipe_member": "platinum"
+    },
+    {
+        "member_id": 28,
+        "nama": "Sophia Thomas",
+        "email": "sophia.thomas@example.com",
+        "tipe_member": "silver"
+    },
+    {
+        "member_id": 29,
+        "nama": "Benjamin Harris",
+        "email": "benjamin.harris@example.com",
+        "tipe_member": "gold"
+    },
+    {
+        "member_id": 30,
+        "nama": "Lucas Clark",
+        "email": "lucas.clark@example.com",
+        "tipe_member": "platinum"
+    }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "Rendang",
+    "image": "./img/rendang.jpg",
+    "price": 25000,
+    "rating": 5,
+    "category": "Meat",
+    "description": "Daging sapi dimasak dengan bumbu khas Minang, pedas dan gurih."
+  },
+  {
+    "id": 2,
+    "name": "Pempek Palembang",
+    "image": "./img/pempek.jpg",
+    "price": 15000,
+    "rating": 4,
+    "category": "Pantry",
+    "description": "Olahan ikan dan sagu disajikan dengan cuko asam manis pedas."
+  },
+  {
+    "id": 3,
+    "name": "Gudeg Jogja",
+    "image": "./img/gudeg.jpg",
+    "price": 20000,
+    "rating": 4,
+    "category": "Meat",
+    "description": "Nangka muda dimasak manis khas Yogyakarta, lengkap dengan telur dan sambal krecek."
+  },
+  {
+    "id": 4,
+    "name": "Nasi Goreng",
+    "image": "./img/nasigoreng.jpg",
+    "price": 12000,
+    "rating": 5,
+    "category": "Pantry",
+    "description": "Nasi goreng khas Indonesia dengan bumbu rempah dan telur."
+  },
+  {
+    "id": 5,
+    "name": "Sate Ayam",
+    "image": "./img/sateayam.jpg",
+    "price": 18000,
+    "rating": 4,
+    "category": "Meat",
+    "description": "Tusuk ayam bakar disajikan dengan saus kacang gurih dan lontong."
+  },
+  {
+    "id": 6,
+    "name": "Gado-Gado",
+    "image": "./img/gadogado.jpg",
+    "price": 10000,
+    "rating": 3,
+    "category": "Vegetables",
+    "description": "Sayuran rebus dengan saus kacang khas Betawi."
+  },
+  {
+    "id": 7,
+    "name": "Es Cendol",
+    "image": "./img/cendol.jpg",
+    "price": 8000,
+    "rating": 5,
+    "category": "Dairy",
+    "description": "Minuman manis segar dari santan, gula merah, dan cendol hijau."
+  },
+  {
+    "id": 8,
+    "name": "Kerak Telor",
+    "image": "./img/keraktelor.jpg",
+    "price": 14000,
+    "rating": 4,
+    "category": "Pantry",
+    "description": "Makanan khas Betawi berbahan beras ketan, telur, dan serundeng."
+  },
+  {
+    "id": 9,
+    "name": "Bakso",
+    "image": "./img/bakso.jpg",
+    "price": 17000,
+    "rating": 5,
+    "category": "Meat",
+    "description": "Bola daging sapi kenyal disajikan dalam kuah kaldu hangat."
+  }
+]
