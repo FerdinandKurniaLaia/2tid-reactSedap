@@ -2,6 +2,7 @@ import { BsFillPeopleFill } from "react-icons/bs";
 import { AiOutlineOrderedList } from "react-icons/ai";
 import { MdDashboard } from "react-icons/md";
 import { MdFastfood } from "react-icons/md";
+import { MdNote } from 'react-icons/md';
 
 import SidebarMenuItem from "../components/SideBarMenuItem";
 import { NavLink } from "react-router-dom";
@@ -44,6 +45,7 @@ export default function Sidebar() {
           <SidebarMenuItem to="/customers" icon={BsFillPeopleFill} label="Customers" />
           <SidebarMenuItem to="/user" icon={AiOutlineOrderedList} label="User List" />
           <SidebarMenuItem to="/products" icon={MdFastfood} label="Products" />
+          <SidebarMenuItem to="/notes" icon={MdNote} label="Notes" />
           {/* Error Pages */}
           <SidebarMenuItem to="/error/400" icon={MdDashboard} label="Error 400" />
           <SidebarMenuItem to="/error/401" icon={MdDashboard} label="Error 401" />

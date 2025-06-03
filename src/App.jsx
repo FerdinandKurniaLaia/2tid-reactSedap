@@ -24,6 +24,7 @@ const Register = React.lazy(() => import("./pages/auth/Register.jsx"));
 const Forgot = React.lazy(() => import("./pages/auth/Forgot.jsx"));
 const GuestLayout = React.lazy(() => import("./layouts/guestLayout.jsx"));
 const ProductDetail = React.lazy(() => import("./pages/ProductDetail"));
+const Notes =React.lazy(() => import("./pages/Notes"));
 function App() {
   return (
     <Suspense fallback={<Loading />}>
@@ -81,6 +82,7 @@ function App() {
           <Route path="/user" element={<UsersTable />} />
           <Route path="products" element={<Products />} />
           <Route path="/products/:id" element={<ProductDetail />} />
+          <Route path="/notes" element={<Notes/>} />
         </Route>
 
        
